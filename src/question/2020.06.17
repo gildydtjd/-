@@ -3,16 +3,24 @@
 1. 오버로딩, 오버라이딩
 2. 스택과 휩
 3. 쿠키와 세션
-4. DI
-5. map, list , set
+4. DI - new 안쓰는거
+5. map, list , set 
 6. 디자인패턴 싱글톤패턴을 왜 사용하는가?
-7. 모든 클래스는 어떠한 클래스를 상속받는가?
+7. 모든 클래스는 어떠한 클래스를 상속받는가? object
 8. 동기식, 비동기식(적용사례)
-9. http 와 https 의 차이
+        ajax 화면단에서 부분만 변경
+        javascript 자체가 비동기식
+
+9. http 와 https 의 차이 
+        scurity
 10. http 프로토콜 종류
 11. 접근제한자 종류와 설명
+        defalut public protacted private
+
 12. linkedlist 와 arraylist 차이
+
 13. 레퍼런스? 기억이 나지 않는다.
+
 14. MVC 패턴
 나머지는 기억이 나지 않는다.
 
